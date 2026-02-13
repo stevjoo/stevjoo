@@ -20,7 +20,7 @@ Designing infrastructures, building secure systems, and solving real-world techn
 ## 🔗 Connect With Me
 
 - 💼 [**LinkedIn** – Steven Jonathan](https://linkedin.com/in/stevenjonathan-id)
-- 📸 [**Instagram** – @\stev.jo__](https://instagram.com/stev.jo__)
+- 📸 [**Instagram** – @stev.jo__](https://instagram.com/stev.jo__)
 
 ---
 
