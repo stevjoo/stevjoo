@@ -9,7 +9,7 @@ Designing infrastructures, building secure systems, and solving real-world techn
 
 ## 🚀 About Me
 
-🎓 Third-year Informatics Engineering student at Universitas Multimedia Nusantara  
+🎓 Fourth-year Informatics Engineering student at Universitas Multimedia Nusantara  
 🔧 Focused on networking, cybersecurity, and system engineering  
 🐧 Strong with Linux-based infrastructure and network configuration experience  
 🌐 Fullstack development background (Laravel, React, Vue, Inertia)  
